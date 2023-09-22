@@ -1,1 +1,2 @@
 # Family-Expense-Tracker
+The primary aim of this project is to employ the Django framework to develop a website tailored for the meticulous tracking of daily family expenditures. Adhering to the Model-View-Template (MVT) architectural pattern, the project incorporates a MySQL database featuring five well-structured tables. It exhibits a robust architectural design with 10 distinct views.py files, 5 model files, and 5 template files, culminating in a sophisticated and user-friendly financial management platform.
